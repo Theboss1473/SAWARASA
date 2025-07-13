@@ -1,0 +1,213 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "earnRobux": "Gagner des Robux",
+    "cheats": "Astuces",
+    "secretEvents": "Événements Secrets",
+    "news": "Actualités",
+    "generators": "Générateurs"
+  },
+  "footer": {
+    "description": "La communauté n°1 pour les joueurs de Roblox. Trouvez des astuces, des guides et des outils pour passer au niveau supérieur.",
+    "navigation": "Navigation",
+    "legal": "Légal",
+    "contact": "Contact",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "followUs": "Suivez-nous",
+    "copyright": "© {{year}} Roblox Master Zone. Tous droits réservés.",
+    "disclaimer": "Ce site n'est ni affilié ni approuvé par Roblox Corporation. Toutes les marques commerciales sont la propriété de leurs propriétaires respectifs. Le contenu est à des fins d'information et de divertissement."
+  },
+  "home": {
+    "title": "Maîtrisez l'Univers Roblox",
+    "subtitle": "Votre source n°1 pour gagner des Robux, découvrir des astuces, des événements secrets et rester à jour avec les dernières actualités.",
+    "earnRobuxButton": "Gagner des Robux",
+    "exploreCheatsButton": "Explorer les Astuces",
+    "featuredArticles": "Articles à la Une",
+    "latestPosts": "Derniers Articles",
+    "advertising": "Publicité",
+    "article1Title": "Comment Obtenir des Robux Gratuits ? Le Guide Ultime 2025",
+    "article1Desc": "Nous explorons toutes les méthodes légitimes et sûres pour gagner des Robux sans dépenser d'argent. Résultats prouvés !",
+    "article2Title": "Événement Secret d'Été : Récompenses Exclusives !",
+    "article2Desc": "Nous avons découvert un nouvel événement avec des objets que vous ne voudrez pas manquer. Nous vous disons comment participer avant tout le monde.",
+    "article3Title": "Les 5 Meilleures Astuces pour Blox Fruits (Mis à jour)",
+    "article3Desc": "Dominez le PvP et montez de niveau plus vite que jamais avec ces stratégies que les pros ne veulent pas que vous sachiez.",
+    "post1": "Nouvelles fuites de la prochaine mise à jour d'Adopt Me",
+    "post2": "Les générateurs de noms fonctionnent-ils ? Nous les avons testés",
+    "post3": "L'astuce pour trouver la base secrète dans Brookhaven",
+    "readMore": "Lire la suite"
+  },
+  "ganaRobux": {
+    "title": "Comment Obtenir des Robux Gratuits ? (Guide 2025)",
+    "subtitle": "Oubliez les faux générateurs. Ici, nous vous montrons les seules méthodes qui fonctionnent vraiment pour gagner des Robux en toute sécurité et légitimité.",
+    "tableTitle": "Tableau Comparatif des Méthodes",
+    "method": "Méthode",
+    "safety": "Sécurité",
+    "effort": "Effort",
+    "potential": "Potentiel",
+    "safe": "100% Sûr",
+    "low": "Faible",
+    "medium": "Moyen",
+    "high": "Élevé",
+    "veryHigh": "Très Élevé",
+    "unlimited": "Illimité",
+    "microsoftRewards": "Microsoft Rewards",
+    "affiliateProgram": "Programme d'Affiliation",
+    "createItems": "Créer des Vêtements/Objets",
+    "participateEvents": "Participer aux Événements",
+    "easiestMethod": "La Méthode la Plus Simple : Microsoft Rewards",
+    "easiestMethodDesc": "C'est sans aucun doute la méthode la plus accessible. En utilisant simplement le moteur de recherche Bing et en accomplissant des tâches quotidiennes, vous accumulez des points que vous pouvez échanger contre des cartes-cadeaux Roblox.",
+    "noInvestment": "Aucun investissement requis.",
+    "officialSafe": "100% officiel et sûr.",
+    "idealStart": "Idéal pour commencer à gagner vos premiers Robux.",
+    "unlockGuide": "Débloquer le Guide Complet",
+    "robuxDelivered": "Robux livrés ce mois-ci (simulé)",
+    "quickPoll": "Sondage Rapide",
+    "pollQuestion": "Combien de Robux avez-vous gagnés avec des méthodes gratuites ?",
+    "pollOpt1": "0 (Je n'ai pas encore commencé)",
+    "pollOpt2": "1 - 1 000",
+    "pollOpt3": "1 001 - 5 000",
+    "pollOpt4": "Plus de 5 000",
+    "guideTitle": "Guide Complet : Microsoft Rewards",
+    "guideDesc": "Suivez ces étapes pour commencer à gagner des Robux dès aujourd'hui.",
+    "guideStep1": "1. Créez un compte Microsoft (si vous n'en avez pas).",
+    "guideStep2": "2. Allez sur le tableau de bord de Microsoft Rewards et activez-le.",
+    "guideStep3": "3. Effectuez des recherches quotidiennes sur Bing et complétez les activités.",
+    "guideStep4": "4. Accumulez des points jusqu'à en avoir assez pour une carte-cadeau Roblox.",
+    "guideStep5": "5. Échangez vos points et profitez de vos Robux !",
+    "understood": "Compris"
+  },
+  "trucos": {
+    "title": "Astuces et Secrets de Roblox",
+    "subtitle": "Guides mis à jour chaque semaine pour que vous maîtrisiez les jeux les plus populaires.",
+    "page": "Page",
+    "of": "de",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "understood": "Compris !",
+    "tricks": [
+      {
+        "game": "Blox Fruits",
+        "trick": "Combo Infini avec le Fruit Light pour le PvP.",
+        "detail": "Pour réaliser ce combo, utilisez d'abord 'Vol de Lumière' pour vous élever au-dessus de votre adversaire. Ensuite, lancez 'Coup de Pied de Lumière' pour briser sa défense. Immédiatement après, utilisez 'Pluie de Lumière' pour des dégâts massifs pendant qu'il est étourdi. Répétez le cycle en gardant vos distances."
+      },
+      {
+        "game": "Brookhaven",
+        "trick": "Comment accéder à la chambre forte secrète de la banque sans carte d'accès.",
+        "detail": "Vous avez besoin de deux objets : un lit et une bombe. Placez le lit contre le mur du fond de la chambre forte. Allongez-vous et, pendant l'animation, placez une bombe à vos pieds. L'explosion vous propulsera à travers le mur, vous donnant un accès direct."
+      },
+      {
+        "game": "Arsenal",
+        "trick": "Technique du 'slide-jumping' pour se déplacer plus rapidement.",
+        "detail": "En courant, appuyez sur la touche pour vous accroupir pour glisser. Juste avant la fin de la glissade, sautez. Si vous le faites au bon moment, vous maintiendrez la vitesse de la glissade dans les airs, couvrant plus de distance qu'un saut normal."
+      },
+      {
+        "game": "Adopt Me",
+        "trick": "Méthode pour augmenter la probabilité d'obtenir des animaux légendaires.",
+        "detail": "Bien que ce ne soit pas garanti à 100%, la communauté a remarqué que l'achat de 5 œufs du même type et leur ouverture consécutive (sans fermer la fenêtre d'achat) semble augmenter légèrement les chances d'obtenir un animal rare, épique ou légendaire. Essayez !"
+      },
+      {
+        "game": "Blox Fruits",
+        "trick": "Route de farm optimisée pour obtenir 1 million de Beli.",
+        "detail": "Commencez sur l'Île du Ciel et battez les PNJ jusqu'à avoir 100k Beli. Ensuite, allez à la Prison et farmez les Boss jusqu'à 500k. Enfin, dirigez-vous vers la Cité de la Fontaine et terminez les quêtes du Chef Cygne à plusieurs reprises. Avec un bon fruit, vous pouvez le faire en moins d'une heure."
+      },
+      {
+        "game": "Brookhaven",
+        "trick": "Emplacement de tous les véhicules secrets et comment les débloquer.",
+        "detail": "La vieille voiture de sport se trouve dans le garage souterrain de l'hôpital, derrière un faux mur. La moto volante se débloque en terminant le puzzle de la bibliothèque. Le char se trouve à la base militaire, mais vous avez besoin du plus haut grade pour l'utiliser."
+      }
+    ]
+  },
+  "eventos": {
+    "title": "Événements Secrets et Communautaires",
+    "subtitle": "Ne manquez aucune occasion de gagner des récompenses. Nous listons ici les événements qui n'apparaissent pas sur la page principale de Roblox.",
+    "activeEvents": "Événements Actifs en ce Moment",
+    "summerTreasure": "Chasse au Trésor d'Été",
+    "reward": "Récompense",
+    "exclusiveItem": "Objet Exclusif + 50 Robux",
+    "winChance": "Chance de gagner",
+    "highChance": "Élevée (si vous terminez tout)",
+    "endsIn": "Se termine",
+    "days": "dans 3 jours",
+    "participate": "Participer Maintenant !",
+    "communityRaffle": "Tombola de la Communauté",
+    "reward10k": "10 000 Robux",
+    "lowChance": "Faible",
+    "hours": "dans 24 heures",
+    "pastEvents": "Galerie des Événements Passés",
+    "halloweenEvent": "Événement d'Halloween 2024",
+    "winterTournament": "Tournoi PvP d'Hiver",
+    "easterEggHunt": "Chasse aux Œufs de Pâques"
+  },
+  "novedades": {
+    "title": "Actualités et Fuites",
+    "subtitle": "Tout ce qui se passe dans l'univers Roblox, en un seul endroit.",
+    "news1Title": "Roblox annonce un nouveau moteur graphique ! Qu'est-ce que cela signifie pour les joueurs ?",
+    "news1Cat": "Mises à Jour Officielles",
+    "news2Title": "Fuite massive : Un nouvel événement mondial de Noël est-il à venir ?",
+    "news2Cat": "Fuites et Rumeurs",
+    "news3Title": "Adopt Me répond aux critiques concernant sa dernière mise à jour d'animaux de compagnie.",
+    "news3Cat": "Drame de la Communauté",
+    "readFullStory": "Lire l'Article Complet",
+    "fakeOrReal": "Info ou Intox ?",
+    "q1": "Les Robux pourront être échangés entre amis en 2025.",
+    "q2": "Le créateur de Brookhaven prévoit de fermer le jeu.",
+    "q3": "Roblox développe une version pour PlayStation 5.",
+    "real": "Info",
+    "fake": "Intox",
+    "close": "Fermer"
+  },
+  "generadores": {
+    "title": "Générateurs de Robux : Fonctionnent-ils ?",
+    "subtitle": "Nous enquêtons en profondeur sur les sites qui promettent des Robux gratuits instantanément. Voici ce que nous avons découvert.",
+    "honestPerspective": "Une Perspective Honnête",
+    "p1": "Après avoir analysé plusieurs \"générateurs de Robux\", notre enquête montre que ces sites ne livrent pas de Robux. Ce sont généralement des plateformes conçues pour collecter des données d'utilisateurs, afficher des publicités trompeuses ou, dans le pire des cas, tenter d'accéder à votre compte.",
+    "p2": "Pour protéger votre compte et vos informations, nous vous recommandons de ne jamais entrer votre mot de passe en dehors du site officiel de Roblox. Les méthodes légitimes pour obtenir des Robux, comme celles que nous promouvons, sont basées sur les mécanismes du jeu et les programmes officiels.",
+    "discoverMethods": "Découvrez les Méthodes qui FONCTIONNENT",
+    "commonRisks": "Quels sont les risques courants ?",
+    "risk1Title": "Risque pour le Compte",
+    "risk1Desc": "En demandant votre nom d'utilisateur et votre mot de passe, ils peuvent tenter d'accéder à votre compte et à vos objets.",
+    "risk2Title": "Logiciels Malveillants",
+    "risk2Desc": "Certains sites vous demandent de télécharger des fichiers qui pourraient contenir des logiciels malveillants ou des virus.",
+    "risk3Title": "Faux Sondages",
+    "risk3Desc": "Ils vous font remplir des sondages interminables en échange de données, sans vous donner aucune récompense.",
+    "relatedGuides": "Guides Connexes",
+    "guide1": "Les 3 Méthodes les PLUS SÛRES pour obtenir des Robux",
+    "guide2": "Événement Secret d'Été : Ne le manquez pas !",
+    "guide3": "Comment créer vos propres vêtements et gagner des Robux",
+    "nextGuide": "Guide Suivant"
+  },
+  "contacto": {
+    "title": "Contact",
+    "subtitle": "Avez-vous des questions ou des suggestions ? Nous serions ravis de vous entendre !",
+    "yourName": "Votre Nom *",
+    "yourEmail": "Votre Email *",
+    "subject": "Sujet *",
+    "message": "Message *",
+    "sendMessage": "Envoyer le Message"
+  },
+  "terminos": {
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : 11 juillet 2025",
+    "p1": "Bienvenue sur Roblox Master Zone. En accédant et en utilisant notre site web, vous acceptez de respecter et d'être lié par les termes et conditions d'utilisation suivants. Veuillez les lire attentivement.",
+    "siteUsage": "Utilisation du Site",
+    "p2": "Le contenu des pages de ce site web est pour votre information et utilisation générales uniquement. Il est sujet à changement sans préavis. Ni nous ni aucun tiers ne fournissons de garantie quant à l'exactitude, l'actualité, la performance, l'exhaustivité ou la pertinence des informations et des matériaux trouvés ou offerts sur ce site pour un usage particulier.",
+    "contentIP": "Contenu et Propriété Intellectuelle",
+    "p3": "Ce site web contient du matériel qui nous appartient ou pour lequel nous avons une licence. Ce matériel inclut, mais n'est pas limité à, la conception, la mise en page, l'apparence et les graphiques. La reproduction est interdite sauf en conformité avec l'avis de droit d'auteur, qui fait partie de ces termes et conditions.",
+    "disclaimer": "Avis de non-responsabilité",
+    "p4": "Roblox Master Zone n'est pas affilié, associé, autorisé, approuvé par, ou de quelque manière que ce soit officiellement connecté à Roblox Corporation, ou à l'une de ses filiales ou sociétés affiliées. Le nom Roblox ainsi que les noms, marques, emblèmes et images associés sont des marques déposées de leurs propriétaires respectifs."
+  },
+  "privacidad": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : 11 juillet 2025",
+    "p1": "Chez Roblox Master Zone, la vie privée de nos visiteurs est d'une extrême importance pour nous. Ce document de politique de confidentialité décrit les types d'informations personnelles qui sont reçues et collectées et comment elles sont utilisées.",
+    "infoCollected": "Informations que nous collectons",
+    "p2": "Nous pouvons collecter des informations personnelles, telles que les noms et adresses e-mail, uniquement lorsqu'elles sont volontairement soumises via notre formulaire de contact. Ces informations sont utilisées uniquement pour répondre à vos demandes et ne seront pas partagées avec des tiers.",
+    "cookiesAds": "Cookies et Publicités de Tiers",
+    "p3": "Nous utilisons des cookies pour stocker des informations sur les préférences des visiteurs et pour personnaliser le contenu. Nos partenaires publicitaires, tels que Google AdSense, peuvent utiliser des cookies et des balises web sur notre site.",
+    "p4": "Ces technologies sont utilisées pour mesurer l'efficacité de leurs campagnes publicitaires et/ou pour personnaliser le contenu publicitaire que vous voyez. Nous n'avons aucun accès ni contrôle sur ces cookies utilisés par les annonceurs tiers. Vous devriez consulter les politiques de confidentialité respectives de ces serveurs publicitaires tiers pour des informations plus détaillées sur leurs pratiques."
+  },
+  "languageSwitcher": {
+    "label": "Langue"
+  }
+}
